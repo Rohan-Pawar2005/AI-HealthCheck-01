@@ -1,0 +1,6 @@
+{
+  "name": "AI HealthCheck",
+  "description": "Evidence-Informed Clinical Decision Support & Health Guidance Application with Emergency Triage and Verified Medical Knowledge",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
